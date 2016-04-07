@@ -1,0 +1,10 @@
+1-O que é a gerência de configuração?
+2-O que são itens de configuração?
+3-De acordo com o MPS.BR, quais os resultados esperados para o processo de gerência de configuração?
+4-Como se dá o processo de gerência de configuração (exemplifique e indique softwares/ferramentas que auxiliem esse tipo de gerência)?
+5-GitHub
+	1.O que é e qual sua função?
+	2.Guia de uso (tutorial passo-a-passo) (Instalação/configuração, criar conta, postar arquivos.... comandos básicos)
+	3.Criar um conta e postar um ou mais documentos (informar o endereço da sua conta no trabalho)
+	4.Fazer alterações no(s) documento(s) e envia-lo novamente ao repositório (capturar "print" da tela e postar no trabalho)
+	5.Obs: Se necessário, o professor irá solicitar ao aluno que mostre o repositório com o histórico de mudanças
